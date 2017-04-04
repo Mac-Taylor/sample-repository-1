@@ -1,0 +1,40 @@
+body {background-color: darkblue}
+
+header{background-color: deepskyblue; 
+color: darkblue}
+
+h1 {font-size: 5em;
+text-align: center; border: 2px solid darkblue; margin-left: 20%; margin-right: 20%; margin-top: 1%}
+
+nav {color: mediumblue}
+
+nav li {display: inline-block;
+background-color: darkblue;
+width: 24%; 
+text-align: center; 
+text-decoration: underline;
+font-size: 1.5em;
+margin-bottom: 0.5%}
+
+nav li a {color: deepskyblue}
+
+a:hover {color: greenyellow}
+
+nav .bold {font-weight: bold;}
+
+footer {font-style: italic; color: deepskyblue}
+
+main {background-color: deepskyblue;
+color: darkblue}
+
+main p {font-weight: 1000px; font-style: italic;
+font-size: 3.5em; margin-bottom: 0.5%; margin-top: 0.5%; margin-left: 0.5%; padding-top: 0.5%}
+
+main div {font-size: 2em; padding-bottom: 0.1%;
+margin-bottom: 0.5%; margin-left: 0.5%; margin-top: 0.25%}
+
+figure {display: inline-block; position: center; width: auto; height: 125%}
+
+figcaption {color: deepskyblue; text-align: center}
+
+
